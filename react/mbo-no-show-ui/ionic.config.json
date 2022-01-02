@@ -1,0 +1,7 @@
+{
+  "name": "mbo-no-show",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,49 @@
+Clint Sellen - fixed Report app tab problem - 2020-10-22
+
+Clint Sellen - removed Reports from Tab Bar - 2020-10-21
+
+Clint Sellen - fixed bugs in EmailEditorPage - 2020-10-20
+
+Clint Sellen - bug in proportional difference calc - 2020-10-19
+
+Clint Sellen - added report tests - 2020-10-19
+
+Clint Sellen - added svg - 2020‑10‑10	
+
+Clint Sellen - fixed performance metric equation - 2020‑10‑10	
+
+Clint Sellen - Added info to Reports Page - 2020‑10‑08	
+
+Clint Sellen - Added Info and Help items - 2020‑10‑06	
+
+Clint Sellen - progress on the email editor - 2020‑09‑29	
+
+Clint Sellen - added email and location updates - 2020‑09‑25	
+
+Clint Sellen - Reporting is real time now - 2020‑09‑25	
+
+Clint Sellen - MBO proxy added - 2020‑09‑24	
+
+Clint Sellen - Reports and setting revised - 2020‑09‑24	
+
+Clint Sellen - Installed axios - 2020‑09‑08	
+
+Clint Sellen - Installed dayjs - 2020‑09‑08	
+
+Clint Sellen - Installed recharts - 2020‑09‑08	
+
+Clint Sellen - Implemented settings and reports - 2020‑09‑08	
+
+Clint Sellen - Initialsed firebase hosting - 2020‑08‑19	
+
+Clint Sellen - Updated gitignore - 2020‑08‑19	
+
+Clint Sellen - Bug fix in LoginPage - 2020‑08‑19	
+
+Clint Sellen - Pushing first code - 2020‑08‑19	
+
+Clint Sellen - Commented out tests - 2020‑08‑19
+
+Clint Sellen - Initial Bitbucket Pipelines configuration - 2020‑08‑19	
+
+Clint Sellen - Initial commit - 2020‑08‑19	

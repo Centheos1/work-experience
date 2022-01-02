@@ -1,0 +1,55 @@
+7 Rules for Comparing Functions Asymptotically
+
+Rule 1
+
+n 
+k
+ ∈O(n 
+k+c
+ ) as long as c≥0
+
+Or, for polynomials, just compare the degrees.
+
+Rule 2
+
+log(n)∈O(n)
+
+Rule 2a
+
+log(n)∈O(n 
+k
+ ) for any k>0
+
+(Including when k is a small fraction).
+
+Rule 3
+
+f(n)+g(n)+…+h(n)∈O(max{f(n),g(n),…,h(n)})
+
+Or, for things added together, we only care about the worst bit.
+
+Rule 4
+
+Ignore constant multipliers.
+
+Rule 5
+
+f∈O(f)
+
+Or, everything is in big-oh of itself.
+
+Rule 6
+
+n 
+k
+ ∈O(c 
+n
+ ) for any k≥0,c>1
+
+Or, exponentials are always eventually worse than polynomials.
+
+Rule 7
+
+If f∈O(g) then h×f∈O(h×g) for every sensible h.
+
+Or, we can multiply or divide by common factors, as long as we don't try anything silly (for the mathematically inclined, try to find an interesting silly case).

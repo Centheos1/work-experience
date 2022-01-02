@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MBO No Show</string>
+    <string name="title_activity_main">MBO No Show</string>
+    <string name="package_name">org.centheos.mbonoshow</string>
+    <string name="custom_url_scheme">org.centheos.mbonoshow</string>
+</resources>
