@@ -1271,9 +1271,9 @@ part.add_header('Content-Disposition', "attachment; filename= %s" % reportName)
 
 msg.attach(part)
 
-my_email= "clint@thefitnessplayground.com.au"
-my_email_pass = "mango2334"
-server_ssl = smtplib.SMTP_SSL('smtp.gmail.com', 465)
+my_email= "mb_email"
+my_email_pass = "password"
+server_ssl = smtplib.SMTP_SSL('', 0)
 server_ssl.login(my_email, my_email_pass)
 text = msg.as_string()
 server_ssl.sendmail(fromaddr, toaddr, text)
