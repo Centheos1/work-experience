@@ -1241,9 +1241,8 @@ except Exception as ex:
 
 
 
-fromaddr = "clint@thefitnessplayground.com.au"
-# toaddr = "clint@thefitnessplayground.com.au"
-toaddr = ["james@fitnessplayground.com.au","justin@fitnessplayground.com.au","quintin@fitnessplayground.com.au","kareim@fitnessplayground.com.au", "daniel@fitnessplayground.com.au","tammy@fitnessplayground.com.au","suh@fitnessplayground.com.au","victoria@fitnessplayground.com.au","chad@fitnessplayground.com.au","ibby@thebunkergym.com.au","tristen@fitnessplayground.com.au","anthony@fitnessplayground.com.au","alessia@fitnessplayground.com.au","alice@fitnessplayground.com.au"]
+fromaddr = "fromaddr"
+# toaddr = "todaddr"
 
 msg = MIMEMultipart()
 
