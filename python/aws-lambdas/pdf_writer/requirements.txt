@@ -1,6 +1,0 @@
-pdfkit
-pandas
-requests==2.22.0
-numpy==1.19.3
-urllib3==1.25.11
-six==1.11.0
